@@ -39,7 +39,7 @@
 ## Contact me :
 
 <div>
-  <a href="https://www.linkedin.com/in/william-fort/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60"></a>
+  <a href="https://www.linkedin.com/in/william-fort/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="50"></a>
 </div>
 <!---
 Draxx0/Draxx0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
