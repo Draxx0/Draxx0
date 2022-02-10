@@ -3,8 +3,8 @@
 - Here you will found somes of my projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxxo0&layout=compact&langs_count=6&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Draxxo0&layout=compact&langs_count=12&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=6&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Draxx0&layout=compact&langs_count=12&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
