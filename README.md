@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="50px" style="margin: 10px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50px" style="vertical-align:top; margin:10px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="40px" style="vertical-align:top; margin:10px;">
-<img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" alt="XD" height="50px" style="vertical-align:top; margin:10px">
+<img src="https://brandlogos.net/wp-content/uploads/2021/05/adobe-xd-logo.png" alt="XD" height="40px" style="vertical-align:top; margin:10px">
 <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40px" style="vertical-align:top; margin:10px">
 </p>
 
