@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="45px">
 <img src="https://brandlogos.net/wp-content/uploads/2021/05/adobe-xd-logo.png" alt="XD" height="50px">
-<img src="https://logo-marque.com/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="45px">
+<img src="https://logo-marque.com/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="42px">
 </p>
 
 ## Contact me :
