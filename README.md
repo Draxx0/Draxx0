@@ -27,7 +27,7 @@
 </p>
 <br>
 <h3>Tools</h3>
-<p align="center" style="padding: 20px 20px">
+<p align="center" style="margin: 20px 20px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="50px" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="50px" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50px" style="vertical-align:top; margin:6px">
