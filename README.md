@@ -3,7 +3,7 @@
 - Here you will found somes of my projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -39,5 +39,5 @@
 </div>
 <!---
 Draxx0/Draxx0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes . 
+You can click the Preview link to take a look at your changes. 
 --->
