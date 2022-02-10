@@ -1,7 +1,9 @@
 - 👋 Hello, I'm William, a french front end developper which is animate by coding passion.
 - My principal web developpement interest is about front end but sometimes i like learn about back end. 💻
 - Here you will found somes of my projects.
-<h2>Stats</h2>
+
+# Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
