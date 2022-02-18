@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/github/Draxx0/Website_Anime.svg)](https://wakatime.com/badge/github/Draxx0/Website_Anime)
 
 <br>
