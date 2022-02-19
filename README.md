@@ -1,5 +1,5 @@
 - 👋 Hello, I'm William, a french front end developper which is animate by coding passion.
-- My principal web developpement interest is about front end but sometimes i like learn about back end. 💻
+- My principal web developpement interest is about front end. 💻
 - Here you will found somes of my projects.
 
 # Stats
