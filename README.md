@@ -1,6 +1,12 @@
 - 👋 Hello, I'm William, a french front end developper which is animate by coding passion.
-- My principal web developpement interest is about front end. 💻
-- Here you will found somes of my projects.
+
+- 🔭 I’m currently Studying Web Development at ESD Bordeaux
+
+- 🌱 I’m currently learning **React & Node JS**
+
+- 👯 My Area of Interest's are **Web development, Video Games**
+
+- 👨‍💻 My portfolio is available at [https://fort-william-portfolio.vercel.app/#/)
 
 # Stats
 
