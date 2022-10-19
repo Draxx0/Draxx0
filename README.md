@@ -1,4 +1,4 @@
-- 👋 Hello, I'm William, a french front end developper which is animate by coding passion.
+- 👋 Hello, I'm William, a french front end developper who's animate by coding passion.
 
 - 🔭 I’m currently Studying Web Development at ESD Bordeaux
 
