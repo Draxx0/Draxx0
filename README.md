@@ -9,10 +9,9 @@
 - 👨‍💻 My portfolio is available at [https://william-fort.fr)
 
 # Stats
-<div align="center">
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <br>
 
@@ -21,6 +20,7 @@
 ## 🛠 Which Languages and Tools i use 🛠
 
 <h3>Languages</h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="50px">
