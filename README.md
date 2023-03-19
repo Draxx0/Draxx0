@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Studying Web Development at ESD Bordeaux
 
-- 🌱 I’m currently learning **React & Node JS**
+- 🌱 I’m currently learning **Angular & Node JS**
 
 - 👯 My Area of Interest's are **Web development, Video Games**
 
