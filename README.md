@@ -17,7 +17,7 @@
 
 <br>
 
-## 🛠 Which Languages and Tools i use 🛠
+## Languages, Frameworks & Tools
 
 <h3>Languages</h3>
 <p align="center">
