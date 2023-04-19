@@ -10,9 +10,10 @@
 
 # Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Draxx0&theme=synthwave)](https://github.com/Draxx0/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DraxX0&theme=synthwave&langs_count=10)](https://github.com/Draxx0/github-readme-stats)                      
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)                       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)              
+[![wakatime](https://wakatime.com/badge/user/feeb7e6c-eaeb-4a61-ae62-8bf7fd48feef.svg)](https://wakatime.com/@feeb7e6c-eaeb-4a61-ae62-8bf7fd48feef)
 
 <br>
 
