@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Studying Web Development at ESD Bordeaux
 
-- 🌱 I’m currently learning **PERN Stack**
+- 🌱 I’m currently learning **NextJS & NestJS**
 
 - 👯 My Area of Interest's are **Web development, Video Games**
 
