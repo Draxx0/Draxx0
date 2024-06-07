@@ -1,5 +1,4 @@
 - 👋 Hello, I'm William, a french front end developper who's animate by coding passion.
-
 - 🔭 I’m currently Studying Web Development at ESD Bordeaux
 
 - 🌱 I’m currently learning **NextJS & NestJS**
@@ -8,11 +7,23 @@
 
 - 👨‍💻 My portfolio is available at [https://williamfort.fr)
 
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="images/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 # Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DraxX0&theme=synthwave&langs_count=10)](https://github.com/Draxx0/github-readme-stats)                      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)                       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)              
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DraxX0&theme=synthwave&langs_count=10)](https://github.com/Draxx0/github-readme-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
 [![wakatime](https://wakatime.com/badge/user/feeb7e6c-eaeb-4a61-ae62-8bf7fd48feef.svg)](https://wakatime.com/@feeb7e6c-eaeb-4a61-ae62-8bf7fd48feef)
 
 <br>
