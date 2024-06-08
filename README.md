@@ -1,4 +1,5 @@
 - 👋 Hello, I'm William, a french front end developper who's animate by coding passion.
+
 - 🔭 I’m currently Studying Web Development at ESD Bordeaux
 
 - 🌱 I’m currently learning **NextJS & NestJS**
