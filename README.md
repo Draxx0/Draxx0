@@ -1,10 +1,10 @@
 - 👋 Hello, I'm William, a french front end developper who's animate by coding passion.
 
-- 🔭 I’m currently Studying Web Development at ESD Bordeaux
+- 🔭 I’m currently Studying Web Development at Ynov Bordeaux
 
-- 🌱 I’m currently learning **NextJS & NestJS**
+- 🌱 I’m currently learning **VueJS & Java**
 
-- 👯 My Area of Interest's are **Web development, Video Games**
+- 👯 My Area of Interest's are **Web development, Video Games, Sport**
 
 - 👨‍💻 My portfolio is available at [https://williamfort.fr)
 
