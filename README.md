@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Studying Web Development at Ynov Bordeaux
 
-- 🌱 I’m currently learning **VueJS & Java**
+- 🌱 I’m currently learning **Java**
 
 - 👯 My Area of Interest's are **Web development, Video Games, Sport**
 
