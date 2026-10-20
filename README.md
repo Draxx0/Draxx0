@@ -1,11 +1,57 @@
-- 👋 Hello, I'm William, a french front end developper who's animate by coding passion.
-- 🔭 I’m currently Studying Web Development at ESD Bordeaux
+<div align="center">
+  <a href="https://william-fort.fr">
+    <img src="images/banner.svg" alt="William FORT — Freelance web developer" width="100%" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **NextJS & NestJS**
+<br>
 
-- 👯 My Area of Interest's are **Web development, Video Games**
+### Hey, I'm William 👋
 
-- 👨‍💻 My portfolio is available at [https://williamfort.fr)
+I'm a freelance full-stack developer based in **Bordeaux, France**, and part of the team at [**Very Berry**](https://github.com/very-berry-agency).
+I build fast, hand-coded products for small businesses and startups — no templates, no middleman: the person you talk to is the one writing the code.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🌐 Websites</b><br>
+      <sub>Fast, SEO-ready showcase sites that turn visits into calls.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🧩 Web applications</b><br>
+      <sub>Custom tools with user accounts, live data and integrations.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚙️ Automations</b><br>
+      <sub>Repetitive work wired between your tools with n8n &amp; Make.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI agents</b><br>
+      <sub>Assistants connected to your docs and tools, for clients or teams.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-1a1614?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-1a1614?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1614?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1a1614?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <br>
+  <img src="https://img.shields.io/badge/NestJS-1a1614?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-1a1614?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-1a1614?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Stripe-1a1614?style=for-the-badge&logo=stripe&logoColor=635BFF" alt="Stripe" />
+  <br>
+  <img src="https://img.shields.io/badge/n8n-1a1614?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-1a1614?style=for-the-badge&logo=make&logoColor=A855F7" alt="Make" />
+  <img src="https://img.shields.io/badge/OpenAI-1a1614?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Shopify-1a1614?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify" />
+</p>
 
 ---
 
@@ -19,34 +65,16 @@
 
 ---
 
-# Stats
+### 📊 Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DraxX0&theme=synthwave&langs_count=10)](https://github.com/Draxx0/github-readme-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draxx0&show_icons=true&theme=synthwave)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draxx0&layout=compact&langs_count=12&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
 [![wakatime](https://wakatime.com/badge/user/feeb7e6c-eaeb-4a61-ae62-8bf7fd48feef.svg)](https://wakatime.com/@feeb7e6c-eaeb-4a61-ae62-8bf7fd48feef)
 
-<br>
+### 📬 Let's work together
 
-<br>
+Got a project in mind? I usually reply within 48 h.
 
-## Languages, Frameworks & Tools
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="NestJS" height="50px">
-<img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="MongoDB" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50px">
-<br>
-
-## Contact me :
-
-<div>
-  <a href="https://www.linkedin.com/in/william-fort/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="50"></a>
-</div>
-<!---
-Draxx0/Draxx0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <a href="https://william-fort.fr"><img src="https://img.shields.io/badge/william--fort.fr-dd3e3e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/william-fort/"><img src="https://img.shields.io/badge/LinkedIn-1a1614?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:williamfort.work@gmail.com"><img src="https://img.shields.io/badge/Email-1a1614?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>

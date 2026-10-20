@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="William FORT — Freelance web developer">
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <rect x="3" y="3" width="16" height="16" rx="3" fill="#ffffff" fill-opacity="0.04"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#1a1614"/>
+      <stop offset="0.45" stop-color="#1a1614" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#1a1614" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="#1a1614"/>
+
+  <!-- contribution-grid motif, echoing the snake below -->
+  <rect x="560" y="0" width="640" height="320" fill="url(#grid)"/>
+  <g fill="#dd3e3e">
+    <rect x="913" y="69" width="16" height="16" rx="3" fill-opacity="0.35"/>
+    <rect x="935" y="69" width="16" height="16" rx="3" fill-opacity="0.6"/>
+    <rect x="957" y="91" width="16" height="16" rx="3"/>
+    <rect x="979" y="91" width="16" height="16" rx="3" fill-opacity="0.8"/>
+    <rect x="1001" y="113" width="16" height="16" rx="3" fill-opacity="0.5"/>
+    <rect x="1023" y="135" width="16" height="16" rx="3"/>
+    <rect x="1045" y="135" width="16" height="16" rx="3" fill-opacity="0.7"/>
+    <rect x="1067" y="157" width="16" height="16" rx="3" fill-opacity="0.4"/>
+    <rect x="1089" y="179" width="16" height="16" rx="3" fill-opacity="0.9"/>
+    <rect x="1111" y="201" width="16" height="16" rx="3" fill-opacity="0.55"/>
+    <rect x="869" y="223" width="16" height="16" rx="3" fill-opacity="0.3"/>
+    <rect x="891" y="223" width="16" height="16" rx="3" fill-opacity="0.65"/>
+    <rect x="1001" y="245" width="16" height="16" rx="3" fill-opacity="0.45"/>
+  </g>
+  <rect x="560" y="0" width="640" height="320" fill="url(#fade)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+    <circle cx="76" cy="92" r="6" fill="#dd3e3e"/>
+    <text x="92" y="98" font-size="16" letter-spacing="2.5" fill="#a69b93">AVAILABLE FOR NEW PROJECTS · BORDEAUX, FR</text>
+
+    <text x="70" y="178" font-size="68" font-weight="600" letter-spacing="-2.4" fill="#ffffff">William <tspan fill="#f08a8a">FORT</tspan></text>
+
+    <text x="72" y="226" font-size="24" fill="#d2c9c2">Freelance web developer — websites, web apps,</text>
+    <text x="72" y="258" font-size="24" fill="#d2c9c2">automations &amp; AI agents.</text>
+  </g>
+</svg>
