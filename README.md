@@ -9,7 +9,7 @@
 ### Hey, I'm William 👋
 
 I'm a freelance full-stack developer based in **Bordeaux, France**, and part of the team at [**Very Berry**](https://github.com/very-berry-agency).
-I build fast, hand-coded products for small businesses and startups — no templates, no middleman: the person you talk to is the one writing the code.
+I build fast, hand-coded products for small businesses and startups.
 
 ### 🛠️ Stack
 
