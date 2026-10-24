@@ -11,29 +11,6 @@
 I'm a freelance full-stack developer based in **Bordeaux, France**, and part of the team at [**Very Berry**](https://github.com/very-berry-agency).
 I build fast, hand-coded products for small businesses and startups — no templates, no middleman: the person you talk to is the one writing the code.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🌐 Websites</b><br>
-      <sub>Fast, SEO-ready showcase sites that turn visits into calls.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🧩 Web applications</b><br>
-      <sub>Custom tools with user accounts, live data and integrations.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>⚙️ Automations</b><br>
-      <sub>Repetitive work wired between your tools with n8n &amp; Make.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🤖 AI agents</b><br>
-      <sub>Assistants connected to your docs and tools, for clients or teams.</sub>
-    </td>
-  </tr>
-</table>
-
 ### 🛠️ Stack
 
 <p>
